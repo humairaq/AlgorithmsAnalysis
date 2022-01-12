@@ -1,1 +1,1 @@
-# 323-Algorithms
+Project for Design and Analysis of Algorithms class
